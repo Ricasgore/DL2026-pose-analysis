@@ -1,0 +1,3 @@
+- This are the loss we get during our training.
+- x axe = number of batchs
+- y axe = loss

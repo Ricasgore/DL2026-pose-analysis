@@ -1,0 +1,2 @@
+- We reused and drew inspiration from the work of misbah4064 : "https://github.com/misbah4064/human-pose-estimation-opencv" 
+- The openpose is a human pose detection method : "https://github.com/CMU-Perceptual-Computing-Lab/openpose"

@@ -1,0 +1,9 @@
+# Ignorer les modèles lourds
+*.ckpt
+*.pb
+*.pth
+*.onnx
+
+# Ignorer les dossiers de cache/dataset
+__pycache__/
+*.npy

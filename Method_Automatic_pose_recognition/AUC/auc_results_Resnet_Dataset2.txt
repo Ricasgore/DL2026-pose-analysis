@@ -1,0 +1,17 @@
+AUC Globale : 28.6990
+AUC Keypoint 1 : 32.3046
+AUC Keypoint 2 : 37.1220
+AUC Keypoint 3 : 34.2410
+AUC Keypoint 4 : 33.8383
+AUC Keypoint 5 : 39.7846
+AUC Keypoint 6 : 43.2699
+AUC Keypoint 7 : 34.7433
+AUC Keypoint 8 : 34.6484
+AUC Keypoint 9 : 37.6483
+AUC Keypoint 10 : 36.6423
+AUC Keypoint 11 : 33.9160
+AUC Keypoint 12 : 49.7475
+AUC Keypoint 13 : 49.7475
+AUC Keypoint 14 : 49.7475
+AUC Keypoint 15 : 49.7475
+AUC Keypoint 16 : 49.7475
